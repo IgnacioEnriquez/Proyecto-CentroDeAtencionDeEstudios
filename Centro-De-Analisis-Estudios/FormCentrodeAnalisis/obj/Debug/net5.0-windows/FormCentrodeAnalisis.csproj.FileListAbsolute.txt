@@ -1,0 +1,135 @@
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.exe
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.deps.json
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.runtimeconfig.json
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.runtimeconfig.dev.json
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.dll
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\bin\Debug\net5.0-windows\ref\FormCentrodeAnalisis.dll
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.pdb
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.AssemblyReference.cache
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormMenu.resources
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.GenerateResource.cache
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.AssemblyInfoInputs.cache
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.AssemblyInfo.cs
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.dll
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\ref\FormCentrodeAnalisis.dll
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.pdb
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.genruntimeconfig.cache
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormMostrarPersonas.resources
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormEliminarPersona.resources
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormAgregarPersona.resources
+C:\Users\ignac\source\repos\Enriquez.Ignacio.2°A.TPFinal\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.CopyComplete
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.exe
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.deps.json
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.runtimeconfig.json
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\bin\Debug\net5.0-windows\ref\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.pdb
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.AssemblyReference.cache
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormAgregarPersona.resources
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormEliminarPersona.resources
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormMenu.resources
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormMostrarPersonas.resources
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.GenerateResource.cache
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.AssemblyInfo.cs
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\ref\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.pdb
+C:\Users\ignac\Desktop\TP N°3\Enriquez.Ignacio.2°A.TP3Recuperatorio\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.genruntimeconfig.cache
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.exe
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.deps.json
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.runtimeconfig.json
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\ref\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.pdb
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.AssemblyReference.cache
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormAgregarPersona.resources
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormEliminarPersona.resources
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormMenu.resources
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormMostrarPersonas.resources
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.GenerateResource.cache
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.AssemblyInfo.cs
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\ref\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.pdb
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINALF\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.genruntimeconfig.cache
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.exe
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.deps.json
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.runtimeconfig.json
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\ref\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.pdb
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.AssemblyReference.cache
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormAgregarPersona.resources
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormEliminarPersona.resources
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormMenu.resources
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormMostrarPersonas.resources
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.GenerateResource.cache
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.AssemblyInfo.cs
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.CopyComplete
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\ref\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.pdb
+C:\Users\ignac\Desktop\TPN°4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.genruntimeconfig.cache
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.exe
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.deps.json
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.runtimeconfig.json
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\ref\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\FormCentrodeAnalisis.pdb
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.AssemblyReference.cache
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormAgregarPersona.resources
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormEliminarPersona.resources
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormMenu.resources
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.FormMostrarPersonas.resources
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.GenerateResource.cache
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\ref\FormCentrodeAnalisis.dll
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.pdb
+C:\Users\ignac\Desktop\Tps\tps_laboratorio_ii\TP4\Enriquez.Ignacio.2°A.TPFINAL\FormCentrodeAnalisis\obj\Debug\net5.0-windows\FormCentrodeAnalisis.genruntimeconfig.cache
